@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    
+    
+    
+    }
+    
+    
+    .cabecalho { 
+        align-items: center;
+        background-color: rgb(216, 216, 216); 
+        display: flex;
+        justify-content: space-between;
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
