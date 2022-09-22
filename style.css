@@ -1,16 +1,31 @@
 body{
-    background-color: black;
-    
-    
-    
+    background: url(dragon.jpg);
+    background-size: cover;
+    background-repeat: attachement;
+    background-attachment: fixed;
+     
     }
-    
     
     .cabecalho { 
         align-items: center;
         background-color: rgb(216, 216, 216); 
         display: flex;
         justify-content: space-between;
-        padding-left: 2rem;
-        padding-right: 2rem;
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+
+    .logo{
+     image-url
+
+    }
+
+    .sla{
+        color: rgb(218, 16, 16);
+    te
+    }
+    .menu{
+color: rgb(218, 16, 16);
+ text-decoration: none;
+    
     }
