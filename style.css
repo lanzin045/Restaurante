@@ -8,6 +8,7 @@ body{
     
     .cabecalho { 
         align-items: center;
+        
         background-color: rgb(216, 216, 216); 
         display: flex;
         justify-content: space-between;
@@ -21,11 +22,15 @@ body{
     }
 
     .sla{
-        color: rgb(218, 16, 16);
-    te
+ color: rgb(204, 204, 204);
+ text-align: top;
+text-align: center;
+    
+    
     }
+
     .menu{
-color: rgb(218, 16, 16);
+color: rgb(248, 7, 7);
  text-decoration: none;
     
     }
